@@ -4,5 +4,5 @@ Aprendendo a manipular strings em Python criando um algoritmo de criptografia co
 <br>
 <h3>O que é Cipher?<h3></h3>
 Cipher é um algoritmo de criptografia usado para codificar ou decodificar informações, tornando-a legíveis apenas para aqueles que possuem a chave adequada.
-<img src="/img-example.png" width=500px>
+<img src="/img-example.png" width=800px>
 
